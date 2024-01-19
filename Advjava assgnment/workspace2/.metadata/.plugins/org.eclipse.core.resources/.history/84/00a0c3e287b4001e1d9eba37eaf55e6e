@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<br/>
+<form action="GetStudById" method="post">
+
+	<table align="center">
+		<tr>
+			<td>Enter stdId </td>
+			<td><input type="text" name="stdId"/></td>
+		</tr>
+		
+		<tr>
+			<td></td>
+			<td><button>Get Student</button></td>
+		</tr>
+		
+	</table>
+
+</form>
+
+<br/>
+
+</body>
+</html>

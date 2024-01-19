@@ -1,0 +1,6 @@
+127.0.0.1 - - [09/Jan/2024:14:16:01 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Jan/2024:14:16:02 +0530] "GET /StudWebApp/LoginPage.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [09/Jan/2024:14:16:27 +0530] "GET /StudWebApp/LoginServlet?emailId=HR&password=HR HTTP/1.1" 200 318
+0:0:0:0:0:0:0:1 - - [09/Jan/2024:14:16:30 +0530] "GET /StudWebApp/GetAllStuds HTTP/1.1" 200 768
+0:0:0:0:0:0:0:1 - - [09/Jan/2024:14:16:31 +0530] "GET /StudWebApp/GetStudById.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [09/Jan/2024:14:16:37 +0530] "POST /StudWebApp/GetEmpById HTTP/1.1" 404 776
